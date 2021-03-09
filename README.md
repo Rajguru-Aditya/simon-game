@@ -2,3 +2,6 @@
 
 
 Simon game is a game where the colored buttons will blink in a random pattern and you have to follow that pattern.
+
+Netlify link:
+https://adityassimongame.netlify.app/
